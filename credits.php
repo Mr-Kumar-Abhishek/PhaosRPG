@@ -21,6 +21,10 @@
 						<big><b>Created By:</b></big>
 						<p>
 						<a href="http://www.zekewalker.com" target="_blank">Zeke Walker</a>
+						<big><b>Hosting and further development:</b></big>
+						</p>
+							<a href="https://mr-kumar.tk">Abhishek Kumar</a>
+						</p>
 						<p>
 						<big><b>Game Design/Programming:</b></big>
 						<p>
