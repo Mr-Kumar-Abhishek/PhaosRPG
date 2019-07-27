@@ -161,9 +161,16 @@ if($char_loc == "") {
 <hr>
 <b><?php echo $lang_home["rela_sit"]; ?>:</b>
 <p>
+<p>
+    <a href="https://mr-kumar.tk" target="_blank">Abhishek Kumar</a>
+</p>
+</p>
+<p>
 <a href="http://www.worldofphaos.com/" target="_blank">World of Phaos</a>
+</p>
 <p>
 <a href="http://www.zekewalker.com/" target="_blank">Zeke Walker</a>
+</p>
 </td>
 </tr>
 </table>
