@@ -3,6 +3,6 @@
 $mysql_server = "localhost";
 $mysql_user = "pi";
 $mysql_password = "2wsxzaq1";
-$mysql_database = "acoserver_games";
+$mysql_database = "phaos";
 $SITETITLE = "Phaos RPG";
 ?>
